@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="NU3RAL_NUMB3RS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NU3RAL_NUMB3RS_jar</output-path>
+    <root id="archive" name="NU3RAL_NUMB3RS.jar">
+      <element id="module-output" name="NU3RAL_NUMB3RS" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/redist/annotations-java8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
